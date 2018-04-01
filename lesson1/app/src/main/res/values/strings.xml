@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="img_descr">Image</string>
+    <string name="hello_world">Hello!</string>
+</resources>

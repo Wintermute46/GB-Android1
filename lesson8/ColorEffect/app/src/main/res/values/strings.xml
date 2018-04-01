@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Color Effect</string>
+    <string name="caption">Select color</string>
+    <string name="button">Result</string>
+    <string name="res_text">No color selected</string>
+    <string name="share_button">SHARE</string>
+    <string name="sms_button">Send as SMS</string>
+    <string name="no_act_toast">There is no application to send SMS</string>
+    <string name="chooser_title">Select an app</string>
+    <string name="back_button">Come back</string>
+    <string name="back_text_true">Welcome back! You shared the result of the application.</string>
+    <string name="back_text_false">Welcome back! You did not share the result of the application.</string>
+
+    <string-array name="color_selection">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>blue</item>
+        <item>purple</item>
+    </string-array>
+
+    <string-array name="effect">
+        <item>Exciting, warming, active, energetic, penetrating, thermal, activates all functions of the body;
+             Used to treat varicella, scarlet fever, measles and some skin diseases; for a short time increases
+             muscular tension, raises blood pressure, accelerates the rhythm of breathing</item>
+        <item>Tonic; acts in the same direction as the red, but weaker;
+             accelerates the pulsation of blood, improves digestion</item>
+        <item>Toning, physiologically optimal, least tiring;
+             stimulates vision and nervous activity</item>
+        <item>Physiologically optimal; reduces blood pressure and expands
+             capillaries; calms and relieves neuralgia and migraines; for a long time
+             increases muscular-muscular performance</item>
+        <item>Calming; reduces muscular tension and blood pressure,
+             calms the pulse and slows the rhythm of breathing</item>
+        <item>Soothing action turns into a depressing; promotes
+             inhibition of functions of human physiological systems</item>
+        <item>Connects the effect of red and blue colors; produces depressing
+             action on the nervous system</item>
+    </string-array>
+    <string name="phoneNum_hint">Enter phone number</string>
+    <string name="activity_implement">doesn\'t implement onPushBackButton</string>
+
+</resources>

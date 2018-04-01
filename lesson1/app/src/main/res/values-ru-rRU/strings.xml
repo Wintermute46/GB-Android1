@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Первое приложение</string>
+    <string name="img_descr">Картинка</string>
+    <string name="hello_world">Привет!</string>
+</resources>

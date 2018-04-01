@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blackText">#000000</color>
+
+    <array name="list_colors">
+        <item name="resColorRED">#F44336</item>
+        <item name="resColorORANGE">#FF9800</item>
+        <item name="resColorYELLOW">#FFEB3B</item>
+        <item name="resColorGREEN">#4CAF50</item>
+        <item name="resColorCYAN">#00BCD4</item>
+        <item name="resColorBLUE">#2196F3</item>
+        <item name="resColorPURPLE">#9C27B0</item>
+    </array>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Communication</string>
+    <string name="button_send">Отправить</string>
+    <string name="button_send_and_receive">Отправить и получить результат</string>
+    <string name="button_send_to_friend">Поделиться с другом</string>
+    <string name="button_unknown_action">Unknown Action</string>
+    <string name="edittext_hint">Введите сообщение</string>
+    <string name="chooser_title">Сделать выбор</string>
+    <string name="reply">result code: %d</string>
+    <string name="radio_1">В другое Activity</string>
+    <string name="radio_2">В SMS</string>
+    <string name="radio_3">На выбор</string>
+    <string name="no_act_toast">Не найдено приложение для отправки SMS</string>
+    <string name="phone_hint">Введите номер</string>
+</resources>
